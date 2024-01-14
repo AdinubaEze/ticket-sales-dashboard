@@ -168,6 +168,7 @@ img{
     background: -webkit-linear-gradient(left,var(--color-primary),rgba(var(--color-primary-rgb),0.5));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-weight: 800;
 }
 .sidebar>.sidebar__middle .tab{
   display: block;
